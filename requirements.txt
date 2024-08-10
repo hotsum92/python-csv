@@ -1,0 +1,10 @@
+numpy>=1.16.2
+torchinfo==1.8.0
+matplotlib
+mypy
+Pillow
+sklearn
+pandas
+seaborn
+tensorflow
+keras
